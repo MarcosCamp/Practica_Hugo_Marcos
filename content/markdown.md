@@ -58,4 +58,3 @@ https://www.ejemplo.com
 
 [mi-enlace]
 ![mi-imagen]
-

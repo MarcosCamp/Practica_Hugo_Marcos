@@ -15,11 +15,17 @@ theme = 'temaSeleccionado'
     weight = 2
 
   [[menu.main]]
-    name = "Python"
-    url = "/python/"
+    name = "Imagenes"
+    url = "/imagenes/"
     weight = 3
 
   [[menu.main]]
-    name = "Contacto"
-    url = "/contact/"
+    name = "Tv"
+    url = "/tv/"
     weight = 4
+
+
+  [[menu.main]]
+    name = "Python"
+    url = "/python/"
+    weight = 5
