@@ -1,5 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'es'
-title = 'My New Hugo Site'
+title = 'Mi página con Hugo'
 theme = 'temaSeleccionado'
-avatar = "resources/_gen/images/img/d750822ebb96c71268d77a8c39db8997.jpg"
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/inicio"
+    weight = 1
+
+  [[menu.main]]
+    name = "Markdown"
+    url = "/markdown/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Python"
+    url = "/python/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contacto"
+    url = "/contact/"
+    weight = 4
