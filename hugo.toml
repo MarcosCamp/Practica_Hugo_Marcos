@@ -2,3 +2,4 @@ baseURL = 'https://example.org/'
 languageCode = 'es'
 title = 'My New Hugo Site'
 theme = 'temaSeleccionado'
+avatar = "resources/_gen/images/img/d750822ebb96c71268d77a8c39db8997.jpg"
