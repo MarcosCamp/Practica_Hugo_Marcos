@@ -6,7 +6,7 @@ theme = 'temaSeleccionado'
 [menu]
   [[menu.main]]
     name = "Inicio"
-    url = "/"
+    url = "/inicio/"
     weight = 1
 
   [[menu.main]]
