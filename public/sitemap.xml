@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41589/categories/</loc>
+    <loc>http://localhost:44911/categories/</loc>
   </url><url>
-    <loc>http://localhost:41589/</loc>
+    <loc>http://localhost:44911/landing/</loc>
   </url><url>
-    <loc>http://localhost:41589/landing/</loc>
+    <loc>http://localhost:44911/</loc>
   </url><url>
-    <loc>http://localhost:41589/tags/</loc>
+    <loc>http://localhost:44911/tags/</loc>
   </url>
 </urlset>
