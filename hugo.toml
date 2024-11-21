@@ -6,7 +6,7 @@ theme = 'temaSeleccionado'
 [menu]
   [[menu.main]]
     name = "Inicio"
-    url = "/inicio"
+    url = "/"
     weight = 1
 
   [[menu.main]]
@@ -29,3 +29,8 @@ theme = 'temaSeleccionado'
     name = "Python"
     url = "/python/"
     weight = 5
+
+ [[menu.main]]
+    name = ""
+    url = "/ojfgewogjewo/"
+    weight = 6

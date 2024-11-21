@@ -18,4 +18,3 @@ A continuación, verás algunas fotos de mi pueblo y mi viaje reciente.
     <img src="/data/fotos/imagen3.jpg" alt="Imagen 3" />
   </div>
 </div>
-
